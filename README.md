@@ -1,8 +1,8 @@
 various-windows-binaries
 ========================
 
-no dependency . compiled statically 
+this bianries are compiled statically under windows (32bit) using mingw (gcc 4.8.1) 
 
-Wav2json.exe
+Wav2json.exe  https://github.com/beschulz/wav2json
 
-Wav2png.exe
+Wav2png.exe   https://github.com/beschulz/wav2png
